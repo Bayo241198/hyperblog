@@ -4,7 +4,7 @@ Un blog increíble para el curso de Git y Github en Platzi
 
 > Bryan
 
-###En este curso vemos de todo
+## En este curso vemos de todo
 * Todos los comandos de Git
 * El flujo de trabajo de Github 
 * El verdadero amor por las buenas prácticas
